@@ -1,7 +1,3 @@
-## Leírás
-
-Ez egy React alkalmazás, ami Vite segítségével készült, a legegyszerűbb és legkevesebb függőséggel rendelkező megoldásokra összpontosít. A fő cél az átláthatóság és a reszponzivitás biztosítása. A főbb használt technológiák közé tartozik a Vite, React, és néhány alapvető React hook, mint például a useState, useEffect és useMemo.
-
 ## URL
 
 https://garda-b.github.io/lottokeeper-game/
