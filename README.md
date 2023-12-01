@@ -1,3 +1,15 @@
+## Leírás
+
+A Vite keretrendszer segítségével készült React alkalmazás. Tervezése során kiemelt szempont volt a minimalista megközelítés és a minimális függőségek használata, hogy a fejlesztés egyszerű és hatékony legyen.
+
+## Telepítés és Futtatás
+- Klónozd le a projektet a saját gépedre.
+- Navigálj a projekt gyökérkönyvtárába a terminálban.
+- Telepítsd a szükséges függőségeket a "npm install" parancs segítségével.
+- Indítsd el az alkalmazást a "npm run dev" paranccsal.
+
+Ezen felül, az alkalmazás elérhető az alábbi linken is: 
+
 ## URL
 
 https://garda-b.github.io/lottokeeper-game/
