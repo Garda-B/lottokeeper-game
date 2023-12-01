@@ -4,7 +4,7 @@ Ez egy React alkalmazás, ami Vite segítségével készült, a legegyszerűbb �
 
 ## URL
 
-
+https://garda-b.github.io/lottokeeper-game/
 
 ## Jellemzők
 
